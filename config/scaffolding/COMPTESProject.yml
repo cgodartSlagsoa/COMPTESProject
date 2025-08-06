@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/cgodartSlagsoa
   gitUsername: cgodartSlagsoa
   gitBranch: main
+services:
+- serviceName: project.comptes.integrations:manageComptesIn
+  packages:
+  - name: COMPTESProject
+    version: "1.0"
