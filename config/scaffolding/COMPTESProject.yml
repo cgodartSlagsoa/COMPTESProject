@@ -2,12 +2,12 @@ version: "1.0"
 info:
   model: int-scaffold
 packages:
-- name: COMPTESProject
+- name: MA_COMMUN
   gitServerName: myGit
   gitUrl: https://github.com/cgodartSlagsoa
   gitUsername: cgodartSlagsoa
   gitBranch: main
-- name: MA_COMMUN
+- name: COMPTESProject
   gitServerName: myGit
   gitUrl: https://github.com/cgodartSlagsoa
   gitUsername: cgodartSlagsoa
