@@ -7,6 +7,11 @@ packages:
   gitUrl: https://github.com/cgodartSlagsoa
   gitUsername: cgodartSlagsoa
   gitBranch: main
+- name: MA_COMMUN
+  gitServerName: myGit
+  gitUrl: https://github.com/cgodartSlagsoa
+  gitUsername: cgodartSlagsoa
+  gitBranch: main
 services:
 - serviceName: project.comptes.integrations:manageComptesIn
   packages:
